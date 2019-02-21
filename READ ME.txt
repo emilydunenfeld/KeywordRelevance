@@ -1,0 +1,4 @@
+Use java 8 and gradle 2.13
+run in command line using gradle bootrun
+go to localhost:8080/10BBFFB3-87E4-46AD-944E-984092B0F905
+or another node name found in articlesToRead
